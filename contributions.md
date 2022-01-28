@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Jan 27 | [Link](https://en.wikipedia.org/w/index.php?title=List_of_songs_featured_in_Shrek&diff=prev&oldid=1068347586) | Wikipedia edit | I fixed an incorrect link. |
+| Jan 27 | [Link](https://en.wikipedia.org/w/index.php?title=Rolling_Stone&diff=prev&oldid=1068352323) | Wikipedia edit | I removed a misleading phrase. |
+| Jan 27 | [Link](https://en.wikipedia.org/w/index.php?title=Rolling_Stone&diff=prev&oldid=1068353442) | Wikipedia edit | I added hyperlinks leading to the wiki pages of mentioned subjects. |
