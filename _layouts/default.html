@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ site.name }} – {% if page.title %}{{ page.title }}{% endif %}</title>
+    <title>{{ site.name }}{% if page.title %}{{  - page.title }}{% endif %}</title>
 
     {% include meta.html %}
 
@@ -10,7 +10,7 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}{% if page.title %}{{  - page.title }}{% endif %}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
