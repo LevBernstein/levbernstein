@@ -1,2 +1,1 @@
-This is a simple template for the class blog. 
-
+## Lev Bernstein's class blog for Open Source Software Development.
