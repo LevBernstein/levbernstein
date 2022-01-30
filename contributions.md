@@ -35,3 +35,5 @@ Replace the first row with your own contribution.
 | Jan 29 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&diff=prev&oldid=1068679045) | Wikipedia edit | Rewrote the "membership" sections, combining them into one section. |
 | Jan 29 | [Link](https://en.wikipedia.org/w/index.php?title=Wikipedia%3AConflict_of_interest%2FNoticeboard&type=revision&diff=1068688367&oldid=1068637027) | Wikipedia edit | Opened a Conflict of Interest investigation into edits by possible members of the Eclipe Foundation. |
 | Jan 30 | [Link](https://en.wikipedia.org/w/index.php?title=Paul_Dekker&type=revision&diff=1068894441&oldid=1068762759) | Wikipedia edit | Found a new source. |
+| Jan 30 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&diff=prev&oldid=1068908320) | Wikipedia edit | Added a new source. |
+| Jan 30 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&type=revision&diff=1068928802&oldid=1068926256) | Wikipedia edit | Found a new source. |
