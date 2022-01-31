@@ -37,3 +37,5 @@ Replace the first row with your own contribution.
 | Jan 30 | [Link](https://en.wikipedia.org/w/index.php?title=Paul_Dekker&type=revision&diff=1068894441&oldid=1068762759) | Wikipedia edit | Found a new source. |
 | Jan 30 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&diff=prev&oldid=1068908320) | Wikipedia edit | Added a new source. |
 | Jan 30 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&type=revision&diff=1068928802&oldid=1068926256) | Wikipedia edit | Found a new source. |
+| Jan 30 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&type=revision&diff=1068981657&oldid=1068956222) | 7 Wikipedia edits | A variety of edits that add secondary source citations, clean up the article, etc. |
+| Jan 31 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&type=revision&diff=1069080076&oldid=1069015894) | Wikipedia edit | Switched to a secondary source to reduce reliance on publications by the Eclipse Foundation |
