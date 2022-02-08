@@ -56,3 +56,5 @@ Replace the first row with your own contribution.
 | Feb 4 | [Link 1](https://en.wikipedia.org/w/index.php?title=Template:Eclipse_Foundation&diff=prev&oldid=1069925531) [Link 2](https://en.wikipedia.org/w/index.php?title=Jakarta_EE&diff=prev&oldid=1069925748) | Wikipedia edit | Added Jakarta EE to the Eclipse Foundation template |
 | Feb 4 | [Link](https://en.wikipedia.org/w/index.php?title=Levon_Ter-Petrosyan&type=revision&diff=1069939605&oldid=1069901719) | Wikipedia edit | Cleaned up refs |
 | Feb 4 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&action=history) | Wikipedia edit | Cleaned up refs |
+| Feb 6 | [Link](https://en.wikipedia.org/w/index.php?title=Levon_Ter-Petrosyan&type=revision&diff=1070348835&oldid=1070137792) | Wikipedia edit | Rewrote awkward sentence |
+| Feb 6 | [Link](https://en.wikipedia.org/w/index.php?title=Fido_%28dog%29&type=revision&diff=1070369028&oldid=1038141937) | Wikipedia edit | Rewrote awkward sentences, removed fluff, cn, redid References heading, refimprove template |
