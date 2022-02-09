@@ -58,3 +58,10 @@ Replace the first row with your own contribution.
 | Feb 4 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&action=history) | Wikipedia edit | Cleaned up refs |
 | Feb 6 | [Link](https://en.wikipedia.org/w/index.php?title=Levon_Ter-Petrosyan&type=revision&diff=1070348835&oldid=1070137792) | Wikipedia edit | Rewrote awkward sentence |
 | Feb 6 | [Link](https://en.wikipedia.org/w/index.php?title=Fido_%28dog%29&type=revision&diff=1070369028&oldid=1038141937) | Wikipedia edit | Rewrote awkward sentences, removed fluff, cn, redid References heading, refimprove template |
+| Feb 8 | [Link](https://en.wikipedia.org/w/index.php?title=Hinge_%28app%29&type=revision&diff=1070571465&oldid=1069627660) | Wikipedia edit | Removed vandalism |
+| Feb 8 | [Link](https://en.wikipedia.org/w/index.php?title=John_Chrysostom&type=revision&diff=1070689915&oldid=1069987225) | Wikipedia edit | Fixed refs |
+| Feb 8 | [Link](https://en.wikipedia.org/w/index.php?title=Afro-Dominicans_%28Dominica%29&type=revision&diff=1070741178&oldid=1055790279) | Wikipedia edit | Fixed refs |
+| Feb 8 | [Link](https://en.wikipedia.org/w/index.php?title=Michael_Madigan&type=revision&diff=1070748512&oldid=1053944891) | Wikipedia edit | Fixed refs |
+| Feb 8 | [Link](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Gerald_Wilkinson) | Wikipedia edit | Proposed an article for deletion |
+| Feb 8 | [Link](https://en.wikipedia.org/w/index.php?title=Digital_Bath&type=revision&diff=1070752884&oldid=1057476819) | Wikipedia edit | Removed template |
+| Feb 8 | [Link](https://en.wikipedia.org/w/index.php?title=A_Protocol_of_1919&type=revision&diff=1070763289&oldid=933492244) | Wikipedia edit | Fixed refs |
