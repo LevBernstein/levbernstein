@@ -65,3 +65,15 @@ Replace the first row with your own contribution.
 | Feb 8 | [Link](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Gerald_Wilkinson) | Wikipedia edit | Proposed an article for deletion |
 | Feb 8 | [Link](https://en.wikipedia.org/w/index.php?title=Digital_Bath&type=revision&diff=1070752884&oldid=1057476819) | Wikipedia edit | Removed template |
 | Feb 8 | [Link](https://en.wikipedia.org/w/index.php?title=A_Protocol_of_1919&type=revision&diff=1070763289&oldid=933492244) | Wikipedia edit | Fixed refs |
+| Feb 9 | [Link](https://en.wikipedia.org/w/index.php?title=1995_World_Men%27s_Handball_Championship&type=revision&diff=1070917601&oldid=1004567198) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=Norman_Friedman&type=revision&diff=1070965056&oldid=1048049654) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=List_of_tallest_buildings_in_Massachusetts%2C_exclusive_of_Boston&type=revision&diff=1070966193&oldid=1039960829) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=Simon_Loftus&type=revision&diff=1071086869&oldid=1051786316) | Wikipedia edit | Added a ref |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=English_Settlement_%28Illinois%29&type=revision&diff=1071088786&oldid=1042681705) | Wikipedia edit | Removed template |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=OMS_Video&type=revision&diff=1071093263&oldid=994908190) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=Neorealism_%28international_relations%29&type=revision&diff=1071098554&oldid=1069362668) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=The_Night_Stalker_%282016_film%29&type=revision&diff=1071099324&oldid=1023209239) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=Beverly_Hills_Supper_Club_fire&type=revision&diff=1071106910&oldid=1070444999) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=Parenting&type=revision&diff=1071115153&oldid=1067232545) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=Plyometrics&type=revision&diff=1071116073&oldid=1069698644) | Wikipedia edit | Fixed refs |
+| Feb 10 | [Link](https://en.wikipedia.org/w/index.php?title=Nicholas_Sand&type=revision&diff=1071116730&oldid=1034805935) | Wikipedia edit | Fixed refs |
