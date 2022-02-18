@@ -17,7 +17,7 @@ Replace the first row with your own contribution.
 -->
 
 
-
+Putting this up here because it's more significant: I wrote [a full Wikipedia article](https://en.wikipedia.org/wiki/Bublichki_(song))!
 
 
 | Date #       | Contribution (Link)  | Type  | Description |
@@ -93,3 +93,14 @@ Replace the first row with your own contribution.
 | Feb 13 | [Link](https://en.wikipedia.org/w/index.php?title=Rafat_Albadr&type=revision&diff=1071659101&oldid=1047324769) | Wikipedia edit | Removed template |
 | Feb 13 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Germany&type=revision&diff=1071707570&oldid=1071693140) | Wikipedia edit | Fixed refs, refimprove template |
 | Feb 13 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Germany&type=revision&diff=1071720367&oldid=1071707570) | Wikipedia edit | Fixed refs |
+| Feb 14 | [Link](https://en.wikipedia.org/w/index.php?title=Rafat_Albadr&type=revision&diff=1071749288&oldid=1071659101) | Wikipedia edit | Fixed ref, refimprove template |
+| Feb 14 | [Link](https://en.wikipedia.org/w/index.php?title=New_Canaan_High_School&type=revision&diff=1071757978&oldid=1067562971) | Wikipedia edit | Removed a ton of fluff, fixed refs |
+| Feb 14 | [Link](https://en.wikipedia.org/w/index.php?title=Applied_improvisation&type=revision&diff=1071857727&oldid=1060423977) | Wikipedia edit | Removed a ton of fluff, added a ref |
+| Feb 14 | [Link](https://en.wikipedia.org/w/index.php?title=Jed_Rose&type=revision&diff=1071887176&oldid=1071651057) | Wikipedia edit | Removed fluff, fixed refs |
+| Feb 15 | [Link](https://en.wikipedia.org/w/index.php?title=Parenting&diff=prev&oldid=1072070024) | Wikipedia edit | Undid incorrect revision |
+| Feb 16 | [Link](https://en.wikipedia.org/w/index.php?title=Idylls_of_the_King&type=revision&diff=1072248393&oldid=1066723741) | Wikipedia edit | Fixed refs |
+| Feb 16 | [Link](https://en.wikipedia.org/w/index.php?title=Rusyn_language&type=revision&diff=1072271949&oldid=1071441821) | Wikipedia edit | Word choice |
+| Feb 17 | [Link](https://en.wikipedia.org/w/index.php?title=Assad_Hafeez&type=revision&diff=1072453506&oldid=1059782117) | Wikipedia edit | Fixed refs |
+| Feb 17 | [Link](https://en.wikipedia.org/w/index.php?title=Stone_throwing&type=revision&diff=1072463040&oldid=1072462656) | Wikipedia edit | Undid incorrect revision |
+| Feb 17 | [Link](https://en.wikipedia.org/w/index.php?title=Template:Ring_and_knot-shaped_breads&diff=prev&oldid=1072478355) | Wikipedia edit | Added entry to navbox template |
+| Feb 17 | [Link](https://en.wikipedia.org/w/index.php?title=Bublik&type=revision&diff=1072479982&oldid=1066179494) | Wikipedia edit | Fixed ref, Romanization |
