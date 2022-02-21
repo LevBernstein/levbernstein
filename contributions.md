@@ -104,3 +104,7 @@ Putting this up here because it's more significant: I wrote [a full Wikipedia ar
 | Feb 17 | [Link](https://en.wikipedia.org/w/index.php?title=Stone_throwing&type=revision&diff=1072463040&oldid=1072462656) | Wikipedia edit | Undid incorrect revision |
 | Feb 17 | [Link](https://en.wikipedia.org/w/index.php?title=Template:Ring_and_knot-shaped_breads&diff=prev&oldid=1072478355) | Wikipedia edit | Added entry to navbox template |
 | Feb 17 | [Link](https://en.wikipedia.org/w/index.php?title=Bublik&type=revision&diff=1072479982&oldid=1066179494) | Wikipedia edit | Fixed ref, Romanization |
+| Feb 18 | [Link](https://en.wikipedia.org/w/index.php?title=Alexandru_Cantacuzino_%28militant%29&type=revision&diff=1072708162&oldid=1070580343) | Wikipedia edit | Fixed refs |
+| Feb 18 | [Link](https://en.wikipedia.org/w/index.php?title=John_Cordle&type=revision&diff=1072710188&oldid=1036254918) | Wikipedia edit | Fixed refs, removed fluff |
+| Feb 20 | [Link](https://en.wikipedia.org/w/index.php?title=Northwestern_University_School_of_Education_and_Social_Policy&type=revision&diff=1073053281&oldid=1033428713) | Wikipedia edit | Fixed refs, removed copy-pasted material, removed fluff |
+| Feb 20 | [Link](https://en.wikipedia.org/w/index.php?title=Kaliesha_West&type=revision&diff=1073055183&oldid=1064350054) | Wikipedia edit | Fixed refs |
