@@ -108,3 +108,13 @@ Putting this up here because it's more significant: I wrote [a full Wikipedia ar
 | Feb 18 | [Link](https://en.wikipedia.org/w/index.php?title=John_Cordle&type=revision&diff=1072710188&oldid=1036254918) | Wikipedia edit | Fixed refs, removed fluff |
 | Feb 20 | [Link](https://en.wikipedia.org/w/index.php?title=Northwestern_University_School_of_Education_and_Social_Policy&type=revision&diff=1073053281&oldid=1033428713) | Wikipedia edit | Fixed refs, removed copy-pasted material, removed fluff |
 | Feb 20 | [Link](https://en.wikipedia.org/w/index.php?title=Kaliesha_West&type=revision&diff=1073055183&oldid=1064350054) | Wikipedia edit | Fixed refs |
+| Feb 20 | [Link](https://en.wikipedia.org/w/index.php?title=Hotline_Bling&curid=47704568&diff=1073118282&oldid=1071659166) | Wikipedia edit | Fixed refs |
+| Feb 21 | [Link](https://en.wikipedia.org/w/index.php?title=2008_Michigan_Proposal_2&type=revision&diff=1073301795&oldid=1065147638) | Wikipedia edit | Fixed refs |
+| Feb 24 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_Kyiv&type=revision&diff=1073859807&oldid=1073810413) | Wikipedia edit | Refimprove, phrasing, cn |
+| Feb 24 | [Link](https://en.wikipedia.org/w/index.php?title=Teach_to_One&type=revision&diff=1073862404&oldid=1072494989) | Wikipedia edit | Issue templates |
+| Feb 25 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_Kyiv&type=revision&diff=1073951112&oldid=1073872419) | Wikipedia edit | Phrasing |
+| Feb 25 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_Kyiv&type=revision&diff=1073982134&oldid=1073975445) | Wikipedia edit | Spelling, wc |
+| Feb 25 | [Link](https://en.wikipedia.org/w/index.php?title=Middle_East_Airlines&type=revision&diff=1074013667&oldid=1072571968) | Wikipedia edit | Fixed refs |
+| Feb 25 | [Link](https://en.wikipedia.org/w/index.php?title=Czechoslovak_Legion&type=revision&diff=1074026229&oldid=1073794110) | Wikipedia edit | Removed unnecessary info |
+| Feb 27 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_Kyiv&diff=prev&oldid=1074359314) | Wikipedia edit | Undid Pro-Russian vandalism |
+| Feb 27 | [Link](https://en.wikipedia.org/w/index.php?title=Wikipedia:Requests_for_page_protection/Increase&diff=prev&oldid=1074360478) | Wikipedia edit | Requested page protection in light of aforementioned vandalism |
