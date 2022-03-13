@@ -19,6 +19,9 @@ Replace the first row with your own contribution.
 
 Putting this up here because it's more significant: I wrote [a full Wikipedia article](https://en.wikipedia.org/wiki/Bublichki_(song))!
 
+I'm also working on salvaging [this article](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Leeds).
+It was in serious trouble.
+
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
@@ -126,3 +129,16 @@ Putting this up here because it's more significant: I wrote [a full Wikipedia ar
 | Mar 3 | [Link](https://en.wikipedia.org/w/index.php?title=South_Gate%2C_California&type=revision&diff=1075100436&oldid=1075024214) | Wikipedia edit | Fixed refs |
 | Mar 4 | [Link](https://en.wikipedia.org/w/index.php?title=Avdiivka&type=revision&diff=1075209733&oldid=1046016258) | Wikipedia edit | Current events |
 | Mar 4 | [Link](https://en.wikipedia.org/w/index.php?title=Hal_Bernson&type=revision&diff=1075210686&oldid=1069277686) | Wikipedia edit | Removed duplicate ref |
+| Mar 6-7 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1075830247&oldid=1075376867) | Wikipedia edit | Started work on salvaging this bloated article |
+| Mar 7 | [Link](https://en.wikipedia.org/w/index.php?title=Universiti_Teknologi_MARA&type=revision&diff=1075855045&oldid=1070892253) | Wikipedia edit | Fixed refs |
+| Mar 7 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1075875280&oldid=1075861718) | Wikipedia edit | More work on bloated article |
+| Mar 8 | [Link](https://en.wikipedia.org/w/index.php?title=Systembolaget&type=revision&diff=1075980592&oldid=1075706281) | Wikipedia edit | Fixed refs |
+| Mar 8 | [Link](https://en.wikipedia.org/w/index.php?title=2001_Tamil_Nadu_Legislative_Assembly_election&type=revision&diff=1075982355&oldid=1073241494) | Wikipedia edit | Fixed refs |
+| Mar 8 | [Link](https://en.wikipedia.org/w/index.php?title=Franco_Mulakkal&type=revision&diff=1075986733&oldid=1070998801) | Wikipedia edit | Fixed refs |
+| Mar 8 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1076003619&oldid=1075891965) | Wikipedia edit | Yet more work on the bloated article |
+| Mar 9 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1076162283&oldid=1076027587) | Wikipedia edit | See above |
+| Mar 10 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1076355113&oldid=1076162283) | Wikipedia edit | See above |
+| Mar 10 | [Link](https://en.wikipedia.org/w/index.php?title=Ukrainian_alphabet&type=revision&diff=1076415970&oldid=1076415762) | Wikipedia edit | Removed vandalism |
+| Mar 11 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_Kyiv&type=revision&diff=1076545712&oldid=1076508933) | Wikipedia edit | Cleanup |
+| Mar 12 | [Link](https://en.wikipedia.org/w/index.php?title=Kasparov_Chessmate&type=revision&diff=1076772312&oldid=990755067) | Wikipedia edit | Added port, refs |
+| Mar 13 | [Link](https://en.wikipedia.org/w/index.php?title=Parenting&type=revision&diff=1076925444&oldid=1076862572) | Wikipedia edit | Cleanup |
