@@ -156,3 +156,9 @@ It was in serious trouble.
 | Mar 25 | [Link](https://en.wikipedia.org/w/index.php?title=Walking_with_Elephants&diff=prev&oldid=1079230153) | Wikipedia edit | Removed invalid ref |
 | Mar 26 | [Link](https://en.wikipedia.org/w/index.php?title=End%C5%8D_Sh%C5%8Dta&diff=prev&oldid=1079413932) | Wikipedia edit | Archived ref, corrected height and weight |
 | Mar 27 | [Link](https://en.wikipedia.org/w/index.php?title=Universiti_Teknologi_MARA&diff=prev&oldid=1079629849) | Wikipedia edit | Removed erroneous external link |
+| Mar 28 | [Link](https://en.wikipedia.org/w/index.php?title=El_Escorial_Conspiracy&diff=prev&oldid=1079771721) | Wikipedia edit | Removed some unsourced and poorly written material |
+| Mar 29 | [Link](https://en.wikipedia.org/w/index.php?title=American_Skin_(41_Shots)&diff=prev&oldid=1080054815) | Wikipedia edit | Added refs |
+| Mar 30 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&diff=prev&oldid=1080238246) | Wikipedia edit | More copyedting and bloat removal from the Leeds article |
+| Mar 31 | [Link 1](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1080320356&oldid=1080312936) [Link 2](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1080370557&oldid=1080321784) | Wikipedia edit | See above |
+| Apr 1 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&diff=prev&oldid=1080501585) | Wikipedia edit | Reverted another COI edit to the Eclipse Foundation article (they're back...) |
+| Apr 3 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1080841444&oldid=1080630264) | Wikipedia edit | Leeds |
