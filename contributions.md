@@ -162,3 +162,7 @@ It was in serious trouble.
 | Mar 31 | [Link 1](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1080320356&oldid=1080312936) [Link 2](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1080370557&oldid=1080321784) | Wikipedia edit | See above |
 | Apr 1 | [Link](https://en.wikipedia.org/w/index.php?title=Eclipse_Foundation&diff=prev&oldid=1080501585) | Wikipedia edit | Reverted another COI edit to the Eclipse Foundation article (they're back...) |
 | Apr 3 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1080841444&oldid=1080630264) | Wikipedia edit | Leeds |
+| Apr 4 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&type=revision&diff=1081013900&oldid=1080996714) | Wikipedia edit | Leeds |
+| Apr 6 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&diff=prev&oldid=1081304223) | Wikipedia edit | Leeds |
+| Apr 7 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&diff=prev&oldid=1081499675) | Wikipedia edit | Leeds |
+| Apr 9 | [Link](https://en.wikipedia.org/w/index.php?title=Pedro_Castillo&diff=prev&oldid=1081766374) | Wikipedia edit | Copyedit |
