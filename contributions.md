@@ -22,6 +22,8 @@ Putting this up here because it's more significant: I wrote [a full Wikipedia ar
 I'm also working on salvaging [this article](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Leeds).
 It was in serious trouble.
 
+Finally, I have made one [non-Wikipedia contribution](https://github.com/codinasion/codinasion/pull/479). Hooray.
+
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
@@ -166,3 +168,6 @@ It was in serious trouble.
 | Apr 6 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&diff=prev&oldid=1081304223) | Wikipedia edit | Leeds |
 | Apr 7 | [Link](https://en.wikipedia.org/w/index.php?title=History_of_the_Jews_in_Leeds&diff=prev&oldid=1081499675) | Wikipedia edit | Leeds |
 | Apr 9 | [Link](https://en.wikipedia.org/w/index.php?title=Pedro_Castillo&diff=prev&oldid=1081766374) | Wikipedia edit | Copyedit |
+| Apr 12 | [Link](https://github.com/codinasion/codinasion/pull/479) | Code | Wrote a quick example program |
+| Apr 14 | [Link](https://en.wikipedia.org/w/index.php?title=Sumo&diff=prev&oldid=1082676024) | Wikipedia edit | Reverted vandalism |
+| Apr 16 | [Link](https://en.wikipedia.org/w/index.php?title=Avdiivka&diff=prev&oldid=1083020447) | Wikipedia edit | Reverted incorrect edit |
