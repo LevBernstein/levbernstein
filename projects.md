@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-### Other projects Lev Bernstein has contributed to
+### Other projects to which Lev Bernstein has contributed
 
 * [Beardless Bot](https://github.com/LevBernstein/BeardlessBot), a Discord bot
 supporting faux gambling (coin flips and blackjack), a currency system, fun
@@ -14,7 +14,7 @@ facts, and more.
 * [TV Tracker](https://github.com/software-assignments-spring2021/project-setup-team-hatsukaichi-dynamic),
 an easy, intuitive way to keep track of the shows and movies you're watching
 across platforms. Created as part of Amos Bloomberg's Agile Web Development and
-Devops course.
+DevOps course.
 
 * [Steam: How Far to the Top?](https://github.com/LevBernstein/steamDegreesOfSeparation),
 a social network analysis tool that measures the degrees of separation between
