@@ -171,3 +171,7 @@ Finally, I have made one [non-Wikipedia contribution](https://github.com/codinas
 | Apr 12 | [Link](https://github.com/codinasion/codinasion/pull/479) | Code | Wrote a quick example program |
 | Apr 14 | [Link](https://en.wikipedia.org/w/index.php?title=Sumo&diff=prev&oldid=1082676024) | Wikipedia edit | Reverted vandalism |
 | Apr 16 | [Link](https://en.wikipedia.org/w/index.php?title=Avdiivka&diff=prev&oldid=1083020447) | Wikipedia edit | Reverted incorrect edit |
+| Apr 17 | [Link](https://en.wikipedia.org/w/index.php?title=New_Hope_(Israel)&diff=prev&oldid=1083284382) | Wikipedia edit | Reverted incorrect edit |
+| Apr 18 | [Link](https://en.wikipedia.org/w/index.php?title=Box_Cutter_(Breaking_Bad)&diff=prev&oldid=1083370205) | Wikipedia edit | Reverted edit per the manual of style |
+| Apr 19 | [Link](https://en.wikipedia.org/w/index.php?title=2019_Sri_Lankan_presidential_election&diff=prev&oldid=1083557490) | Wikipedia edit | Switched to a valid photo |
+| Apr 22 | [Link](https://en.wikipedia.org/w/index.php?title=Avdiivka&diff=prev&oldid=1084025939) | Wikipedia edit | Reverted incorrect edit |
