@@ -1,1 +1,1 @@
-## Lev Bernstein's class blog for Open Source Software Development.
+## Lev Bernstein's Personal Website
