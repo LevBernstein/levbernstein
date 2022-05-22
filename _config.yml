@@ -41,7 +41,7 @@ footer-links:
 # Your website URL
 
 url: "https://levbernstein.github.io"
-baseurl: ""
+baseurl: "/site"
 
 #
 # !! You don't need to change any of the configuration flags below !!
