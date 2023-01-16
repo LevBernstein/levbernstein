@@ -2,10 +2,15 @@
 layout: default
 ---
 
-<!-- https://levbernstein.github.io/site/ -->
+
+<div>
+  While Secretary of Quiz Bowl at NYU, I made sure to include something fun or interesting in every email. Here, I have excerpted just the fun and interesting stuff.
+</div>
+
+<!-- https://levbernstein.github.io/site/emails -->
 <div class="posts">
   {% for post in site.posts %}
-    {% unless post.title contains "Email" %}
+    {% if post.title contains "Email" %}
       <article class="post">
 
         <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -16,8 +21,8 @@ layout: default
 
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </article>
-	{% endunless %}
-  
+	{% endif %}
+
   {% endfor %}
-  
+
 </div>
