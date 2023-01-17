@@ -21,7 +21,7 @@ a social network analysis tool that measures the degrees of separation between
 a user and the top of the steam levels leaderboard.
 
 * [Oppia](https://github.com/oppia/oppia), an open source online learning
-platform. I worked on the improving and testing the installation of third
+platform. I worked on improving and testing the installation of third
 party libraries.
 
 * [Anubis](https://github.com/AnubisLMS/Anubis), a distributed Learning

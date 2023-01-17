@@ -14,7 +14,11 @@ layout: default
   </div>
 
   <div class="date">
-    Email originally sent on {{ page.date | date: "%B %e, %Y" }}
+    {% if page.title contains "Email" %}
+      Email originally sent on {{ page.date | date: "%B %e, %Y" }}
+	{% else %}
+	  Posted {{ page.date | date: "%B %e, %Y" }}
+	{% endif %}
   </div>
 
 </article>
