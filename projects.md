@@ -16,7 +16,7 @@ an easy, intuitive way to keep track of the shows and movies you're watching
 across platforms. Created as part of Amos Bloomberg's Agile Web Development and
 DevOps course.
 
-* [Steam: How Far to the Top?](https://github.com/LevBernstein/steamDegreesOfSeparation),
+* [Steam: How Far to the Top?]({{ site.baseurl }}/post4),
 a social network analysis tool that measures the degrees of separation between
 a user and the top of the steam levels leaderboard.
 
@@ -32,6 +32,9 @@ minor.
 * [MooseAPI](https://github.com/LevBernstein/MooseAPI), a simple API that
 serves pictures of Moose, a very good dog (may he rest in peace). Written
 in Python 3 with FastAPI.
+
+* [Simple Conway]({{ site.baseurl }}/levbernstein/conway/), a basic Python
+implementation of John Conway's Game of Life. Runs in the browser using [PyScript](https://pyscript.net/).
 
 ...and a bunch of others. You can see more
 [here](https://github.com/LevBernstein).
