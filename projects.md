@@ -33,7 +33,7 @@ minor.
 serves pictures of Moose, a very good dog (may he rest in peace). Written
 in Python 3 with FastAPI.
 
-* [Simple Conway]({{ site.baseurl }}/levbernstein/conway/), a basic Python
+* [Simple Conway]({{ site.baseurl }}/conway), a basic Python
 implementation of John Conway's Game of Life. Runs in the browser using [PyScript](https://pyscript.net/).
 
 ...and a bunch of others. You can see more
