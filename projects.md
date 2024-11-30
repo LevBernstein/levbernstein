@@ -9,20 +9,24 @@ permalink: /projects/
 
 * [Beardless Bot](https://github.com/LevBernstein/BeardlessBot), a Discord bot
 supporting faux gambling (coin flips and blackjack), a currency system, fun
-facts, and more.
+facts, and more. I also wrote a testing framework that allows for 90% code
+coverage.
 
 * [TV Tracker](https://github.com/software-assignments-spring2021/project-setup-team-hatsukaichi-dynamic),
 an easy, intuitive way to keep track of the shows and movies you're watching
-across platforms. Created as part of Amos Bloomberg's Agile Web Development and
-DevOps course.
+across platforms. Built on the MERN stack (MongoDB, Express.js, React,
+Node.js).Created as part of Amos Bloomberg's Agile Web Development and DevOps
+course.
 
 * [Steam: How Far to the Top?]({{ site.baseurl }}/post4),
 a social network analysis tool that measures the degrees of separation between
 a user and the top of the steam levels leaderboard.
 
 * [Oppia](https://github.com/oppia/oppia), an open source online learning
-platform. I worked on improving and testing the installation of third
-party libraries.
+platform. I wrote some of the unit tests for six classes in the backend.
+
+* [Nextcord](https://github.com/nextcord/nextcord), a Python API for writing
+Discord bots. I contributed 4 PRs that added Python 3.13 compatibility.
 
 * [Anubis](https://github.com/AnubisLMS/Anubis), a distributed Learning
 Management System in use in various NYU CS courses. Anubis provides
