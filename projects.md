@@ -12,6 +12,8 @@ supporting faux gambling (coin flips and blackjack), a currency system, fun
 facts, and more. I also wrote a testing framework that allows for 90% code
 coverage.
 
+* [EADXMLNLP](https://github.com/LevBernstein/EADXMLNLP), a Python tool that pulls and processes EAD-XML files for thematic analysis of archival metadata. Developed for scholar Lia Warner, cited in Using Text Data Mining to Assess Historical Trends in Archival Description, by Lia Warner, in Text and Data Mining Literacy for Librarians, by Kramer et al.
+
 * [TV Tracker](https://github.com/software-assignments-spring2021/project-setup-team-hatsukaichi-dynamic),
 an easy, intuitive way to keep track of the shows and movies you're watching
 across platforms. Built on the MERN stack (MongoDB, Express.js, React,
